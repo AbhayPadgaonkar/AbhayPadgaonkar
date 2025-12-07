@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Abhay Padgaonkar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A965F6&center=true&vCenter=true&width=600&lines=Computer+Engineer;Building+10M%2B+Parameter+SLMs;Full-Stack+Developer+(Next.js+%2B+FastAPI);Crafting+AI-Powered+Security+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A965F6&center=true&vCenter=true&width=600&lines=Computer+Engineer;SLM+,+LLM+Enthusiast;Full-Stack+Developer;Crafting+AI-Powered+Solutions" alt="Typing SVG" />
 </a>
 
 <h3 align="center"> 
@@ -79,19 +79,7 @@ I am a **Computer Engineer** based in **Mumbai, India**, passionate about creati
 
 ---
 
-### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhayPadgaonkar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Abhay's Github Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPadgaonkar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-
-</div>
 ---
 <div align="center">
   <i>Let's connect and build the future of AI together!</i>
