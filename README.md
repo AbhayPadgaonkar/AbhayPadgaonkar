@@ -81,25 +81,16 @@ I am a **Computer Engineer** based in **Mumbai, India**, passionate about creati
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AbhayPadgaonkar&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Abhay's Trophies" />
-  </a>
 
-  <br/>
-  <br/>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbhayPadgaonkar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="Abhay's Github Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhayPadgaonkar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Abhay's Github Stats" />
   
   <br/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPadgaonkar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayPadgaonkar&theme=radical&hide_border=true&background=0d1117" alt="Abhay's Streak" />
 </div>
 ---
 <div align="center">
